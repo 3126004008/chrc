@@ -1,2 +1,0 @@
-# chrc
-personal project
